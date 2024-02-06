@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Leah Nyambura  and I'm a Full-stack Web Developer.</h2>
 
-###
+Glad to see you here!
+Am a passionate full-stack developer hailing from Nyeri, Kenya. My expertise lies in crafting dynamic web applications with a focus on the latest technologies.
+
+💻 Proficient in HTML, CSS, and JavaScript, I elevate user experiences through engaging front-end development. My mastery extends to TypeScript, Angular, React, Bootstrap, and Tailwind, ensuring versatile and responsive designs.
+
+🌐 On the back end, I wield the power of Node.js and Express to build robust server-side applications. I'm well-versed in database management, particularly with MS SQL, guaranteeing seamless data integration.
+
+🚀 Let's collaborate to create innovative solutions that seamlessly blend functionality and aesthetics. Open to exciting opportunities and challenges!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leahmbuthia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
